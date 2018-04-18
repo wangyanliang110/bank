@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 测试授权控制器
  *
- * @author SONG
  */
 @RestController
 @RequestMapping("/api")
